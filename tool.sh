@@ -171,7 +171,7 @@ sizedir_dos=$(du -hc $fichero_dos | grep "total" | cut -f 1)
 
                            then
 
-                               echo "$directorio_dos pesa: \e[33m $size_dos \e[0m" 2> /dev/null
+                               echo "$directorio_dos pesa: \e[33m $sizedir_dos \e[0m" 2> /dev/null
 
                            else
 
