@@ -1,8 +1,9 @@
 
 #!/bin/bash
+
 # Autor: Carlos Rubio Tajuelo
 # Descripción: este programa ofrece varias opciones, comparación de tamaño de ficheros o directorios, y creación de copias de seguridad tanto de ficheros como de directorios y busqueda en fichero passwd. 
-# Para que funcione con otro user cambiar el nombre actual de ruta por el deseado.
+
 
 clear
 username=$(whoami)
