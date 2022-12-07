@@ -1,7 +1,7 @@
 
 #!/bin/bash
 
-# Autor: Carlos Rubio Tajuelo
+# Autor: Ch4rly0n3
 # Descripción: este programa ofrece varias opciones, comparación de tamaño de ficheros o directorios, y creación de copias de seguridad tanto de ficheros como de directorios y busqueda en fichero passwd. 
 # Si tienes problemas con los colores, ejecuta el script con "sh"
 
